@@ -63,6 +63,11 @@ NAD 1983 UTM Zone 12N
 
 ## Project Output
 
+[View the Final Riparian Setback Analysis Map](GIS%20map%204.pdf)
+
+*This project was completed as part of GPHY 504 coursework at Montana State University.*
+
+
 Final map: East Gallatin River – Parcels, Structures, and Riparian Setback.
 
 The PDF map will be linked here after uploading.
