@@ -3,9 +3,7 @@
 
 ## Project Overview
 
-This project examines wildfire burn patterns, vegetation classification, and elevation characteristics in the Bridger Range, Montana, using satellite imagery and geospatial analysis in ArcGIS Pro.
-
-The analysis integrates satellite imagery, classified vegetation raster data, and digital elevation models (DEMs) to visualize wildfire impacts and terrain characteristics.
+*This project was completed as part of GPHY 504 coursework at Montana State University.*
 
 ## Objectives
 
@@ -51,7 +49,8 @@ The classification results suggest that wildfire impacts were particularly exten
 
 **Software:** ArcGIS Pro
 
-**Skills:** Remote sensing, raster analysis, vegetation classification, DEM analysis, environmental mapping, and cartographic visualization.
+[View the Final Wildfire Analysis Map](Layout%28%20Lab%2010%29.pdf)
+
 
 ## Project Output
 
